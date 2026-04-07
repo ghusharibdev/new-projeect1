@@ -11,3 +11,4 @@ form { display: flex; flex-direction: column; }
 input { margin: 10px 0; padding: 10px; border: 1px solid #ddd; }
 button { padding: 10px; background: #007bff; color: white; border: none; cursor: pointer; }
 a { text-align: center; margin-top: 10px; display: block; }
+footer { text-align: center; padding: 20px; color: #666; }
